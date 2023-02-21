@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Cristhian 👋 👩‍💻💪:books: :soccer:
 
 <!--
 **cristhian-espitia/cristhian-espitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ You can find me 👀🌍:
+ <p align="center">
+  
+  <a href="https://www.linkedin.com/in/cristhian-andres-espitia-torres-690869154/">  
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  </a>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
