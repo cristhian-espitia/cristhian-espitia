@@ -2,16 +2,11 @@
 ---
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-
-📚Actualmente estoy aprendiendo todo sobre las tecnologías Frontend y Backend😅
-💪🏼 Metas futuras: Aprende más tecnologías - Nunca dejes de crear nuevas ideas.
 ### A passionate data engineer from Colombia ✌:
 ---
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
+- ✍ I am currently learning Machine Learning and Functional Programming
+- 🙋‍♂️ I am looking to collaborate in deep learning, analytics, and data science.
+- 💪🏼 Future goals: Learn more technologies - Never stop learning
 ---
 
  ### Languages and Tools:
@@ -38,9 +33,10 @@
 
   <a href="https://www.instagram.com/cristhian.espitia/"> 
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"  align="left" alt="Synthwave" height="30" width="30">
-  </a>        
- <a href=[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristhian.espitia@gmail.com)
-    <a/>
- ---
- 
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+
+  </a>
+  
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristhian.espitia17.com)](mailto:cristhian.espitia17@gmail.com)
+
+   
+
