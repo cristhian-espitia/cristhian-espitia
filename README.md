@@ -6,7 +6,7 @@
 ---
 - ✍ I am currently learning Machine Learning and Functional Programming
 - 🙋‍♂️ I am looking to collaborate in deep learning, analytics, and data science.
-- 💪🏼 Future goals: Learn more technologies - Never stop learning
+- 💪🏼 Future goals: Learn more technologies 
 ---
 
  ### Languages and Tools:
