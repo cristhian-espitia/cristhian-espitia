@@ -2,7 +2,7 @@
 ---
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-👨‍💻Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, React, etc.
+
 📚Actualmente estoy aprendiendo todo sobre las tecnologías Frontend y Backend😅
 💪🏼 Metas futuras: Aprende más tecnologías - Nunca dejes de crear nuevas ideas.
 ### A passionate data engineer from Colombia ✌:
@@ -38,12 +38,9 @@
 
   <a href="https://www.instagram.com/cristhian.espitia/"> 
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"  align="left" alt="Synthwave" height="30" width="30">
-  </a> 
----
+  </a>        
+ <a href=[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristhian.espitia@gmail.com)
+    <a/>
+ ---
  
- 
- 
- 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/raghav-byte/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
